@@ -1,0 +1,97 @@
+GAS STATION RECEIPT ANALYSIS
+===========================
+
+PHYSICAL CHARACTERISTICS
+-----------------------
+Size: 3" x 8" thermal paper
+Format: Standard gas station receipt
+Condition: Slightly crumpled, thermal paper fading
+Paper Type: Thermal paper (white with black print)
+Print Quality: Fading in some areas, especially along edges
+Folding: Lines from being crumpled
+Age: Shows signs of being carried in a wallet (slight discoloration)
+
+RECEIPT LAYOUT
+-------------
+HEADER (Top 1 inch):
+- Shell Logo (top center, 0.5" from top)
+- "Shell #1123" (centered, 0.75" from top)
+- "1123 Park Avenue" (centered, 1" from top)
+- "Atlanta, GA 30265" (centered, 1.25" from top)
+- "1 (888) 467-4355" (centered, 1.5" from top)
+
+TRANSACTION DETAILS (Middle 4 inches):
+A. Purchase Information:
+   - Date: March 12, 2023 (left aligned, 2" from top)
+   - Time: 3:15 AM (left aligned, 2.25" from top)
+   - Product: Regular Unleaded (left aligned, 2.5" from top)
+   - Quantity: 12.4 gallons (left aligned, 2.75" from top)
+   - Price/gal: $3.49 (left aligned, 3" from top)
+   - Total: $43.27 (left aligned, 3.25" from top)
+
+B. Payment Details:
+   - Card type: VISA (left aligned, 3.5" from top)
+   - Last 4 digits: XXXX-4582 (left aligned, 3.75" from top)
+   - Auth code: 789321 (left aligned, 4" from top)
+
+FOOTER (Bottom 1 inch):
+A. Additional Information:
+   - Receipt #: 45892 (left aligned, 6.5" from top)
+   - Thank you message (centered, 6.75" from top)
+   - Open 7 Days a Week : 7:00 AM - 9:00 PM (centered, 7" from top)
+
+RECEIPT DETAILS
+--------------
+Date: March 12, 2023
+Time on Receipt: 3:15 AM
+Location: Shell #1123, 1123 Park Avenue, Atlanta, GA
+Transaction Amount: $43.27
+Payment Method: VISA ending in 4582
+
+IMPORTANT NOTE ON RECEIPT:
+"SYSTEM TIME NOT ADJUSTED FOR DST"
+
+TIME ANALYSIS
+------------
+1. Actual Time of Purchase:
+   - Receipt shows: 3:15 AM
+   - This is BEFORE the DST change (which occurs at 3:00 AM)
+   - Therefore, this is the actual time of purchase
+
+2. How This Appears in Evidence:
+   - Security cameras (auto-adjusted): Show Lisa leaving at 3:00 AM
+   - Gas station receipt (not adjusted): Shows 3:15 AM
+   - This creates a 15-minute window where Lisa appears to be at the gas station
+   - This supports her alibi that she was away from the office
+
+3. The Contradiction:
+   - The murder occurred at 2:59 AM
+   - DST change happened at 3:00 AM
+   - Lisa's actual departure was at 4:00 AM (appears as 3:00 AM on adjusted systems)
+   - The gas station receipt shows 3:15 AM (actual time)
+   - This means Lisa was actually at the gas station at 4:15 AM
+   - But because the gas station system didn't adjust for DST, it appears to be 3:15 AM
+
+EVIDENCE IMPLICATIONS
+--------------------
+1. Initial Investigation:
+   - Police see security footage showing Lisa leaving at 3:00 AM
+   - They see gas station receipt showing 3:15 AM
+   - This appears to create a solid alibi
+   - The times seem to line up perfectly
+
+2. The Truth:
+   - The security system auto-adjusted for DST
+   - The gas station system did not adjust for DST
+   - This creates a false timeline that appears to exonerate Lisa
+   - The actual timeline shows she was still at the office during the murder
+
+3. Key to Solving:
+   - Compare systems that auto-adjusted for DST vs those that didn't
+   - Notice the gas station's explicit note about not adjusting for DST
+   - Realize that the 3:15 AM on the receipt is actually 4:15 AM
+   - This breaks Lisa's alibi and places her at the scene during the murder
+
+CONCLUSION
+----------
+The gas station receipt appears to support Lisa's alibi at first glance, but it's actually a crucial piece of evidence that helps prove her guilt. The fact that the gas station's system didn't adjust for DST creates a false timeline that Lisa tried to use to her advantage. By carefully analyzing which systems adjusted for DST and which didn't, investigators can piece together the true sequence of events and prove that Lisa was still at the office when the murder occurred. 

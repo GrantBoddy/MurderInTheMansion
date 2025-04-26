@@ -1,0 +1,18 @@
+id: "detective_graves"
+name: "Detective Graves"
+image: "assets/images/characters/cop2.png"
+position: [300, 250]
+dialogue:
+  intro:
+    - "Thank God you're here, Detective! We've got a murder case on our hands."
+    - "The victim, John Wallace, was found dead in his study around 4:00 AM."
+    - "The neighbor, Tom Wilson, heard a gunshot at exactly 3:34 AM."
+    - "He was also the one that called it in."
+    - "When we arrived, Mr. Wilson was actually outside with a gun, which we thought was odd."
+    - "We've gathered all the evidence for you and went ahead and set up an Evidence Board for you."
+    - "Go ahead and review everything, then start questioning the suspects."
+    - "Remember, if you need help, there is a help button in the top left corner of the Evidence Board."
+  interrogation:
+    - "What can you tell me about your relationship with the victim?"
+    - "Where were you on the night of the murder?"
+    - "Did you notice anything unusual that night?" 

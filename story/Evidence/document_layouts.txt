@@ -1,0 +1,179 @@
+DOCUMENT LAYOUTS - MARCH 12-13, 2023
+
+1. SECURITY SYSTEM REPORT
+------------------------
+Header: WALLACE MANSION SECURITY LOG
+Location: 1124 Park Avenue, Atlanta, GA
+[Digital Interface - Blue Theme]
+WALLACE ENTERPRISES SECURITY LOG
+================================
+Date: March 12-13, 2023
+System Status: DST Adjusted
+
+ENTRY LOG:
+---------
+11:00 PM - Lisa Carter (Employee ID: LC-7742)
+* Access Granted - Main Entrance
+* Verified by Facial Recognition
+
+EXIT LOG:
+--------
+3:00 AM - Lisa Carter
+* Access Granted - Main Entrance
+* Verified by Facial Recognition
+* Note: System automatically adjusted for DST
+
+[Footer: "Security System v4.2 - Auto DST Adjustment Enabled"]
+
+2. PHONE RECORDS
+---------------
+Header: WALLACE MANSION PHONE LOGS
+Location: 1124 Park Avenue, Atlanta, GA
+[Digital Interface - Blue Theme]
+WALLACE ENTERPRISES PHONE LOGS
+==============================
+Date: March 12-13, 2023
+System Status: DST Adjusted
+
+CALL HISTORY:
+------------
+10:45 PM - John Wallace → Lisa Carter
+Duration: 3 minutes
+Location: Office
+
+3:30 AM - Lisa Carter → Home
+Duration: 5 minutes
+Location: Home
+Note: System automatically adjusted for DST
+
+[Footer: "Phone System v3.1 - Auto DST Adjustment Enabled"]
+
+3. GAS STATION RECEIPT
+---------------------
+Location: Shell #1123, 1123 Park Avenue, Atlanta, GA
+[Thermal Paper - Red Stamp]
+SHELL GAS STATION
+================
+Date: March 13, 2023
+Time: 3:15 AM
+Location: 5th Ave Station
+
+[Red Stamp: "SYSTEM NOT ADJUSTED FOR DST"]
+
+4. CRIME SCENE PHOTO
+-------------------
+Location: WALLACE MANSION OFFICE
+Address: 1124 Park Avenue, Atlanta, GA
+[Photo with Overlay]
+WALLACE ENTERPRISES OFFICE
+=========================
+Date: March 13, 2023
+Time: 2:59 AM (Wall Clock)
+Note: Analog clock not adjusted for DST
+
+Visible Elements:
+- Wall clock showing 2:59 AM
+- Calendar showing March 13
+- DST reminder note
+- Financial documents on desk
+
+5. NEIGHBOR'S STATEMENT
+----------------------
+[Handwritten Form]
+WITNESS STATEMENT
+================
+Name: Tom Wilson
+Date: March 13, 2023
+Time: 3:30 AM
+
+"I heard a loud noise like a gunshot at exactly 3:30 AM. I called the police immediately. The office lights were still on at 4:00 AM when I looked out my window."
+
+[Signature and Date]
+
+6. RESTAURANT RECEIPT
+--------------------
+[Printed Receipt]
+CARLO'S RESTAURANT
+=================
+Date: March 12, 2023
+Time: 11:15 PM
+Table: 12
+Guests: 2 (Alex Wallace, Mary Johnson)
+
+[Footer: "Thank you for dining with us"]
+
+7. CHARITY GALA TICKET
+---------------------
+[Fancy Ticket Design]
+ANNUAL CHARITY GALA
+==================
+Date: March 12, 2023
+Time: 8:00 PM - 12:00 AM
+Guest: Emily Wallace
+Table: VIP-3
+
+[Security Features: Hologram, Barcode]
+
+8. COMPUTER ACTIVITY LOG
+-----------------------
+Header: WALLACE MANSION SYSTEM LOG
+Location: 1124 Park Avenue, Atlanta, GA
+[Digital Interface - Blue Theme]
+WALLACE ENTERPRISES SYSTEM LOG
+=============================
+Date: March 12-13, 2023
+User: Lisa Carter
+System Status: DST Adjusted
+
+Last Activity: 3:00 AM
+Note: System automatically adjusted for DST
+
+[Footer: "Enterprise System v5.0 - Auto DST Adjustment Enabled"]
+
+9. BUILDING SECURITY LOG
+-----------------------
+[Handwritten Log Book]
+MANUAL SECURITY LOG
+==================
+Date: March 13, 2023
+
+4:00 AM - Lisa Carter exited building
+Note: Manual log - not adjusted for DST
+
+[Signature: Tom Wilson, Security Guard]
+
+10. FINANCIAL DOCUMENTS
+----------------------
+Header: WALLACE ENTERPRISES
+Location: 1124 Park Avenue, Atlanta, GA
+[Professional Report]
+WALLACE ENTERPRISES
+Financial Investigation
+======================
+Prepared by: John Wallace
+Date: March 12, 2023
+Time: 10:30 PM
+
+[Content: Detailed financial discrepancies and evidence of embezzlement]
+
+VISUAL DISTINCTIONS
+------------------
+1. Auto-Adjusted Systems (Digital):
+   - Blue color scheme
+   - Digital fonts
+   - "DST Adjusted" watermarks
+   - Modern interface design
+
+2. Non-Adjusted Systems (Physical):
+   - Warm color scheme
+   - Handwritten elements
+   - "Not Adjusted for DST" stamps
+   - Traditional paper appearance
+
+3. Critical Evidence:
+   - Red highlights on key timestamps
+   - Yellow notes for DST-related information
+   - Green checkmarks for verified information
+   - Red X's for contradictions
+
+This layout ensures players can easily distinguish between auto-adjusted and non-adjusted systems, making the DST-related time discrepancies more apparent. 

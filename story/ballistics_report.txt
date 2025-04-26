@@ -1,0 +1,142 @@
+ATLANTA POLICE DEPARTMENT - FORENSICS DIVISION
+============================================
+BALLISTICS REPORT
+Case Number: APD-2023-0312
+Date: March 14, 2023
+Prepared By: Detective Sarah Chen, Firearms Examiner
+
+PHYSICAL CHARACTERISTICS OF REPORT
+--------------------------------
+Size: 8.5" x 11" standard paper
+Paper Type: Heavy bond paper (24lb)
+Color: White with blue header
+Condition: Pristine, no folds or marks
+Format: Professional document with letterhead
+Pages: 4 (including cover page)
+Binding: Stapled top left corner
+Classification: CONFIDENTIAL (red stamp)
+
+REPORT HEADER:
+- Atlanta Police Department logo (left)
+- "FORENSICS DIVISION" (centered)
+- "BALLISTICS REPORT" (centered, bold)
+- Case number and date (right)
+- Red "CONFIDENTIAL" stamp (diagonal)
+
+FULL REPORT CONTENT
+------------------
+
+EXAMINATION REQUEST
+------------------
+This examination was requested by Detective James Wilson, Homicide Division, in reference to Case Number APD-2023-0312, the homicide of John Wallace. The purpose of this examination was to determine if the firearm recovered from the residence of Alex Wallace could be conclusively identified as the weapon used in the commission of this crime.
+
+EVIDENCE SUBMITTED
+----------------
+1. One (1) Glock 19, 9mm semi-automatic pistol
+   - Serial Number: GLK123456
+   - Recovered from: Under mattress, bedroom of Alex Wallace
+   - Condition: Recently cleaned, no visible residue
+   - Magazine: Fully loaded, 15 rounds
+   - Safety: Engaged
+
+2. One (1) 9mm Luger cartridge case
+   - Recovered from: Crime scene (John Wallace's home office)
+   - Condition: Unfired, pristine
+   - Manufacturer: Federal Premium
+   - Lot Number: FP-98765
+
+3. One (1) 9mm projectile
+   - Recovered from: Victim's body (through-and-through wound)
+   - Condition: Slightly deformed, rifling marks visible
+   - Weight: 115 grains
+   - Composition: Full metal jacket
+
+EXAMINATION PROCEDURES
+--------------------
+1. Firearm Function Test:
+   - All mechanical components function properly
+   - Trigger pull weight: 5.5 pounds
+   - Safety mechanisms operational
+   - Magazine release and slide function normal
+
+2. Microscopic Examination:
+   - Lands and grooves: 6 right-hand twist
+   - Rifling measurements match standard Glock 19 specifications
+   - No signs of recent modification or tampering
+   - Firing pin impression consistent with Glock manufacturing standards
+
+3. Ballistic Comparison:
+   - Test-fired three rounds through submitted firearm
+   - Comparison microscope used to analyze striations
+   - Digital imaging system employed for pattern matching
+   - Measurements taken at 40x magnification
+
+FINDINGS
+--------
+1. Firearm Identification:
+   - Submitted Glock 19 is in proper working order
+   - No mechanical defects or modifications noted
+   - Serial number matches manufacturer's records
+   - Last registered to: Alex Wallace (purchase date: January 15, 2023)
+
+2. Ballistic Evidence:
+   - Test-fired bullets show identical rifling characteristics to recovered projectile
+   - Striation patterns match with 98.7% certainty
+   - Ejection pattern consistent with crime scene positioning
+   - Firing pin impressions match on test-fired and recovered cartridge cases
+
+3. Tool Mark Analysis:
+   - Extractor marks on test-fired cases match recovered evidence
+   - Breech face impressions show consistent pattern
+   - Chamber marks correspond with manufacturing specifications
+
+CONCLUSIONS
+-----------
+Based on the examination of the submitted evidence and the results of the ballistic testing, it is the conclusion 
+of this examiner that:
+
+1. The Glock 19 pistol recovered from Alex Wallace's residence (Serial Number GLK123456) fired the projectile 
+
+recovered from the victim's body.
+
+2. The striation patterns, rifling characteristics, and tool marks present on the test-fired ammunition match 
+
+those found on the recovered evidence with a high degree of scientific certainty.
+
+3. The firearm shows no signs of recent modification or tampering that would affect its ballistic characteristics.
+
+4. The condition of the firearm (recently cleaned) is consistent with post-firing maintenance, though no gunshot 
+
+residue was detected due to the cleaning.
+
+RECOMMENDATIONS
+--------------
+1. This firearm should be retained as evidence in Case Number APD-2023-0312.
+
+2. Further testing for DNA and fingerprints is recommended, though the cleaning of the firearm may have 
+
+compromised such evidence.
+
+3. A complete ammunition inventory should be conducted to determine if any rounds are missing from the 
+
+standard capacity.
+
+CERTIFICATION
+------------
+I, Detective Sarah Chen, certify that I performed the examinations described in this report and that the 
+
+results and conclusions are accurate to the best of my knowledge and ability.
+
+Signature: ___________________________
+Date: March 14, 2023
+Badge Number: 45782
+
+ATTACHMENTS
+-----------
+1. Digital micrographs of ballistic comparisons
+2. Test fire results and measurements
+3. Chain of custody documentation
+4. Manufacturer's specifications for Glock 19
+
+Note: This report contains 4 pages including this cover page. All pages are consecutively numbered and bear 
+the case number in the footer. 

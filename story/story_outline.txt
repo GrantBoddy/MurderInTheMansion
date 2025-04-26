@@ -1,0 +1,250 @@
+MURDER MYSTERY GAME - STORY OUTLINE
+===================================
+
+SETTING
+-------
+Location: John Wallace's Mansion, Home Office
+Date: March 12-13, 2023
+Time: Late night into early morning
+Key Event: Start of Daylight Saving Time
+
+CHARACTERS
+----------
+1. John Wallace (Victim)
+   - CEO of Wallace Enterprises
+   - 55 years old
+   - Married to Emily
+   - Father of Alex
+   - Discovered financial discrepancies
+   - Works primarily from home office
+
+2. Lisa Carter (Murderer)
+   - CFO of Wallace Enterprises
+   - 26 years old
+   - Single
+   - Embezzling company funds
+   - Having affair with John
+
+3. Emily Wallace
+   - John's wife
+   - 52 years old
+   - Charity event organizer
+   - Suspects John's affair
+   - At charity gala during murder
+
+4. Alex Wallace
+   - John's son
+   - 28 years old
+   - Works at Wallace Enterprises
+   - Secret relationship with Mary
+   - Present in the mansion during murder
+
+5. Mary Johnson
+   - Company Board Member
+   - 49 years old
+   - Close to Alex
+   - Meeting with Alex during murder
+   - Supports company changes
+   - Secret relationship with Alex
+   - Present in the mansion during murder
+   - Key witness to events
+
+6. Tom Wilson
+   - Next-door neighbor
+   - 60 years old
+   - Works night shift
+   - Hears gunshot
+   - Provides key witness statement
+
+PLOT SUMMARY
+-----------
+Saturday, March 12, 2023:
+- 8:00 PM: Emily attends charity gala
+- 9:00 PM: Alex meets with Mary at restaurant
+- 10:45 PM: John calls Lisa to arrange meeting
+- 11:00 PM: Lisa arrives at office
+
+Sunday, March 13, 2023:
+- 2:59 AM: Murder occurs (just before DST change)
+- 3:00 AM: DST begins (Spring Forward)
+- 3:15 AM: Lisa seen at gas station
+- 3:30 AM: Neighbor hears gunshot
+- 4:00 AM: Lisa leaves building (appears as 3:00 AM)
+- 4:30 AM: Lisa makes alibi call (appears as 3:30 AM)
+
+MOTIVE
+------
+Lisa's Motives:
+1. Financial: John discovered her embezzlement
+2. Professional: Her career was at risk
+3. Criminal: Was going to be arrested and charged
+
+EVIDENCE
+--------
+1. Time-Based Evidence:
+   - Security system timestamps (auto-adjusted)
+   - Phone records (auto-adjusted)
+   - Gas station receipt (auto adjusted)
+   - Crime scene photo with clock (not adjusted)
+   - Neighbor's statement (correct time)
+
+2. Financial Evidence:
+   - Embezzlement records
+   - Bank statements
+   - Transfer documentation
+   - John's investigation notes
+
+3. Personal Evidence:
+   - Text messages
+   - Phone calls
+   - Witness statements
+   - Physical evidence (lipstick, etc.)
+
+SOLUTION
+--------
+Key to solving the case:
+1. Compare auto-adjusted vs. non-adjusted timestamps
+2. Notice the DST change at 3:00 AM
+3. Realize Lisa's alibi times don't match
+4. Connect financial motive to opportunity
+5. Prove she was present at time of murder
+
+The critical realization is that:
+- Murder happened at 2:59 AM
+- DST changed at 3:00 AM
+- Lisa's exit at 4:00 AM appears as 3:00 AM
+- Her alibi call at 4:30 AM appears as 3:30 AM
+- Gas station receipt shows her at 3:15 AM
+- These times can't all be true
+
+CLUES
+-----
+1. Obvious Clues:
+   - Financial discrepancies
+   - Affair evidence
+   - Security footage
+   - Phone records
+
+2. Hidden Clues:
+   - DST reminder note
+   - Time discrepancies
+   - Pattern in financial transfers
+   - Relationship dynamics
+
+3. Red Herrings:
+   - Emily's jealousy
+   - Alex's modernization plans
+   - Mary's board position
+   - Tom's security access
+
+This outline provides the framework for a complex murder mystery where the key to solving the case lies in understanding how the Daylight Saving Time change affects the timing of events and evidence.
+
+id: "office_calendar"
+name: "Office Wall Calendar"
+description: "November 2023 calendar from John Wallace's study wall. The weekend of November 4-5 is clearly marked 'Daylight Savings Ends (Fall Back)' in red ink. Several business meetings are noted throughout the month, including one with Lisa Carter scheduled for November 4th at 11:00 PM marked as 'Urgent - Financial Review'."
+image: "assets/images/evidence/calendar.png"
+relevant: true
+details:
+  - "November 2023 calendar"
+  - "DST ends marked on November 5th"
+  - "Late night meeting scheduled with Lisa"
+  - "Other business meetings visible for context"
+
+id: "phone_records"
+name: "Phone Records - November 4-5"
+description: "Phone company records showing calls made to and from key numbers. Notable entries include John's call to Lisa at 10:45 PM and Lisa's call to her mother at '11:30 PM'. Small print at bottom notes 'Times adjusted automatically for DST'."
+image: "assets/images/evidence/phone_records.png"
+relevant: true
+details:
+  - "10:45 PM: John calls Lisa (2 minutes)"
+  - "11:30 PM: Lisa calls mother (5 minutes)"
+  - "Automated DST adjustment notation"
+  - "Cell tower locations included"
+
+id: "bank_statements"
+name: "Company Bank Statements"
+description: "Three months of bank statements showing irregular transfers. Multiple transactions to offshore accounts, disguised as vendor payments. Red marks and highlighting from John's audit visible."
+image: "assets/images/evidence/bank_statements.png"
+relevant: true
+details:
+  - "Suspicious transfers highlighted"
+  - "Pattern of irregular payments"
+  - "John's handwritten notes in margins"
+
+id: "john_notes"
+name: "John's Private Notes"
+description: "Handwritten notes found in John's desk drawer. Details suspicions about financial discrepancies. Last entry dated November 4: 'Meeting L.C. tonight - must address missing funds. Total now exceeds $500,000.'"
+image: "assets/images/evidence/john_notes.png"
+relevant: true
+details:
+  - "Detailed financial concerns"
+  - "Mentions confronting Lisa"
+  - "Amount of stolen money noted"
+
+id: "offshore_accounts"
+name: "Offshore Account Documentation"
+description: "Printouts showing transfers to accounts in the Cayman Islands. Account holder information partially redacted but initials 'L.C.' visible on registration forms."
+image: "assets/images/evidence/offshore_docs.png"
+relevant: true
+details:
+  - "Links to Lisa Carter"
+  - "Dates match suspicious transfers"
+  - "Large sums involved"
+
+id: "gas_station_receipt"
+name: "Gas Station Receipt"
+description: "Receipt from Shell station showing Lisa's credit card purchase at '11:15 PM'. Station located 20 minutes from crime scene. Note at bottom: 'System clock not yet adjusted for DST'."
+image: "assets/images/evidence/gas_receipt.png"
+relevant: true
+details:
+  - "Time stamp: 11:15 PM"
+  - "Location conflicts with alibi"
+  - "Non-adjusted clock noted"
+
+id: "alex_restaurant"
+name: "Restaurant Receipt - Alex Wallace"
+description: "Receipt from Downtown Steakhouse showing Alex's dinner purchase. Timestamp 11:30 PM, with multiple witness statements from staff confirming his presence."
+image: "assets/images/evidence/restaurant_receipt.png"
+relevant: false
+details:
+  - "Confirms Alex's alibi"
+  - "Multiple witnesses noted"
+
+id: "charity_event"
+name: "Charity Gala Ticket - Emily Wallace"
+description: "Ticket stub and photos from charity gala showing Emily Wallace's attendance. Event time listed as 8 PM - Midnight, with photos timestamped throughout evening."
+image: "assets/images/evidence/charity_ticket.png"
+relevant: false
+details:
+  - "Confirms Emily's alibi"
+  - "Multiple timestamps and photos"
+
+id: "john_computer"
+name: "John's Computer Activity Log"
+description: "System log from John's office computer. Shows active use until 11:40 PM, accessing financial files. Last modified document: 'Financial_Discrepancies_Report.pdf'"
+image: "assets/images/evidence/computer_log.png"
+relevant: true
+details:
+  - "Last activity: 11:40 PM"
+  - "Financial files accessed"
+  - "System timestamp verified"
+
+id: "lisa_laptop"
+name: "Lisa's Home Computer Activity"
+description: "Internet activity log showing Lisa's home network access at '11:30 PM'. Email sent to her mother mentioning being 'home safe, heading to bed'."
+image: "assets/images/evidence/laptop_activity.png"
+relevant: true
+details:
+  - "Conflicts with other evidence"
+  - "Attempted alibi establishment"
+  - "Email contents suspicious"
+
+id: "building_access"
+name: "Building Security Logs"
+description: "Electronic access log showing card swipes and door activity. System notes automatic DST adjustment at 2 AM. Shows Lisa's entry at 11:00 PM and exit at '11:30 PM' (adjusted time)."
+image: "assets/images/evidence/access_logs.png"
+relevant: true
+details:
+  - "Entry and exit times logged"
+  - "DST adjustment noted"
+  - "Card reader locations mapped" 

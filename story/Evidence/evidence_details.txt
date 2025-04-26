@@ -1,0 +1,480 @@
+EVIDENCE DETAILS - MARCH 12-13, 2023
+
+1. SECURITY SYSTEM REPORT
+------------------------
+ID: SEC-001
+Name: Building Access Log
+Description: Digital security system log showing entry and exit times
+Image Reference: security_log.png
+Relevance: Critical
+Details:
+- Entry: 11:00 PM (March 12)
+- Exit: Shows as 3:00 AM (March 13)
+- Note: System auto-adjusted for DST at 3:00 AM
+- Actual exit time was 4:00 AM
+- Shows Lisa was last person in building
+
+2. PHONE RECORDS
+---------------
+ID: PHN-001
+Name: Call History
+Description: Digital phone records showing all calls
+Image Reference: phone_records.png
+Relevance: Critical
+Details:
+- 10:45 PM: John calls Lisa
+- 3:30 AM: Lisa's alibi call (actually 4:30 AM)
+- Note: System auto-adjusted for DST
+- Call duration: 5 minutes
+- Location data shows call from home
+
+3. GAS STATION RECEIPT
+---------------------
+ID: REC-001
+Name: Shell Gas Station Receipt
+Description: Physical receipt from gas station
+Image Reference: gas_receipt.png
+Relevance: Critical
+Details:
+- Time: 3:15 AM (March 13)
+- Location: Shell Station on 5th Ave
+- Note: System did not adjust for DST
+- Shows Lisa was out at this time
+- Contradicts her alibi
+
+4. CRIME SCENE PHOTO
+-------------------
+ID: PHO-001
+Name: Office Crime Scene
+Description: Photo of murder scene with wall clock
+Image Reference: crime_scene.png
+Relevance: Critical
+Details:
+- Time shown: 2:59 AM
+- Note: Analog clock, not adjusted for DST
+- Shows actual time of death
+- Calendar shows March 13
+- DST reminder note visible
+
+5. NEIGHBOR'S STATEMENT
+----------------------
+ID: STM-001
+Name: Tom's Witness Statement
+Description: Written statement from neighbor
+Image Reference: witness_statement.png
+Relevance: Supporting
+Details:
+- Heard gunshot at 3:30 AM
+- Called police immediately
+- Saw office lights on at 4:00 AM
+- Note: Time is correct (after DST change)
+
+6. RESTAURANT RECEIPT
+--------------------
+ID: REC-002
+Name: Alex's Dinner Receipt
+Description: Restaurant bill showing time
+Image Reference: restaurant_receipt.png
+Relevance: Supporting
+Details:
+- Time: 11:15 PM (March 12)
+- Confirms Alex's alibi
+- Multiple witnesses present
+- Credit card transaction matches
+
+7. CHARITY GALA TICKET
+---------------------
+ID: TKT-001
+Name: Emily's Gala Ticket
+Description: Event ticket with time stamp
+Image Reference: gala_ticket.png
+Relevance: Supporting
+Details:
+- Event: 8:00 PM - 12:00 AM
+- Multiple witnesses confirm
+- Photo evidence present
+- Confirms Emily's alibi
+
+8. COMPUTER ACTIVITY LOG
+-----------------------
+ID: LOG-001
+Name: Office Computer Log
+Description: Digital activity log from office computer
+Image Reference: computer_log.png
+Relevance: Supporting
+Details:
+- Shows activity until 3:00 AM
+- Note: System auto-adjusted for DST
+- Actual last activity was 4:00 AM
+- Matches security system timestamp
+
+9. BUILDING SECURITY LOG
+-----------------------
+ID: LOG-002
+Name: Manual Security Log
+Description: Handwritten security log
+Image Reference: manual_log.png
+Relevance: Supporting
+Details:
+- Exit time: 4:00 AM
+- Note: Not adjusted for DST
+- Matches actual time
+- Contradicts digital system
+
+10. FINANCIAL DOCUMENTS
+----------------------
+ID: FIN-001
+Name: Embezzlement Evidence
+Description: Documents showing financial fraud
+Image Reference: financial_docs.png
+Relevance: Motive
+Details:
+- Shows Lisa's embezzlement
+- Amount: $521,000
+- Offshore accounts
+- John's investigation notes
+
+KEY EVIDENCE CONTRADICTIONS:
+--------------------------
+1. Security System vs. Gas Station Receipt:
+   - Security shows Lisa left at 3:00 AM
+   - Receipt shows her at gas station at 3:15 AM
+   - Impossible timeline
+
+2. Phone Records vs. Neighbor's Statement:
+   - Phone shows call at 3:30 AM
+   - Neighbor heard gunshot at 3:30 AM
+   - Can't be in two places
+
+3. Computer Log vs. Manual Security Log:
+   - Computer shows activity until 3:00 AM
+   - Manual log shows exit at 4:00 AM
+   - One hour difference due to DST
+
+This evidence shows how Lisa used the DST change to create a false alibi. The key is comparing auto-adjusted systems (security, phone, computer) with non-adjusted systems (receipts, manual logs) to spot the time discrepancies.
+
+==============================================
+1. CRIME SCENE PHOTO
+==============================================
+Size: 4" x 6" standard photo
+Format: High-resolution digital photograph
+Color: Cool temperature, slightly bluish (night-time with fluorescent lights)
+
+COMPOSITION DETAILS:
+- Viewing Angle: Shot from doorway of study
+- Focal Point: Large mahogany desk with knocked over leather chair
+- Depth of Field: Entire room in focus
+
+KEY ELEMENTS AND LOCATIONS:
+A. Left Wall:
+   - Analog wall clock with brass frame
+   - Time showing exactly 11:45 PM
+   - Clock positioned at eye level
+
+B. Right Wall:
+   - Corporate-style wall calendar (12" x 15")
+   - Month: November 2023
+   - Red text "NOV 5 - FALL BACK 1 HOUR" prominently circled
+   - November 4th entry: "11:00 PM - URGENT: Financial Review w/ L.C."
+   - Calendar positioned near desk
+
+C. Desk Surface (from left to right):
+   - Scattered papers (some financial documents visible)
+   - Open laptop (screen visible)
+   - Knocked over coffee mug with spill
+   - Half-visible victim's arm (just edge of sleeve)
+   - More scattered documents
+
+D. Floor Area:
+   - Evidence markers (numbered 1-5) placed near:
+     #1: Knocked over chair
+     #2: Scattered papers
+     #3: Coffee spill
+     #4: Victim's position
+     #5: Broken items near desk
+
+E. Photo Identification Elements:
+   - Bottom Right Corner: "11/04/2023 23:55:00"
+   - Bottom Left Corner: "CASE #2023-11-04-001"
+   - Police department watermark (subtle)
+
+LIGHTING DETAILS:
+- Main Light: Harsh police photography lighting
+- Secondary Light: Room's ceiling lights
+- Shadows: Sharp and well-defined
+- Flash reflection visible in window
+
+==============================================
+2. COMPREHENSIVE SECURITY REPORT
+==============================================
+Size: 8.5" x 11" portrait
+Paper: High-quality white corporate paper
+Format: Professional security report layout
+
+HEADER SECTION:
+A. Top Banner (1" height):
+   - Company logo (top left, 1" x 1")
+   - "SECURITY INCIDENT REPORT" (center, bold, 18pt font)
+   - Report ID: SR-2023-1104-A (top right, 12pt font)
+   - Date: November 4-5, 2023 (under header, centered)
+
+SECTION 1: Building Access Logs (Top Third)
+A. Table Format:
+   - Headers: Time | Name | Card ID | Location | Entry/Exit
+   - Font: Monospace, 11pt
+   - Grid lines: Light grey
+
+B. Key Entries (highlighted in yellow):
+   08:45 AM | John Wallace  | ID-1001 | Main Entrance | Entry
+   09:15 AM | Lisa Carter   | ID-1042 | Main Entrance | Entry
+   09:30 AM | Alex Wallace  | ID-1002 | Main Entrance | Entry
+   10:00 AM | Emily Wallace | ID-1003 | Main Entrance | Entry
+   10:15 AM | Mary Johnson  | ID-1022 | Main Entrance | Entry
+   11:20 PM | Lisa Carter   | ID-1042 | Main Entrance | Exit
+   11:35 PM | Alex Wallace  | ID-1002 | Main Entrance | Exit
+
+C. DST Notice:
+   - Red box with white text: "DST AUTO-ADJUSTMENT ACTIVE"
+   - Positioned below table
+
+SECTION 2: Security Camera Stills (Middle Third)
+A. Three Images in Row:
+   1. Left Image:
+      - Lisa at elevator
+      - Timestamp: 11:15 PM
+      - Camera ID: CAM-E1
+      - Clear view of subject
+
+   2. Center Image:
+      - Alex in hallway
+      - Timestamp: 11:25 PM
+      - Camera ID: CAM-H3
+      - Slightly blurred motion
+
+   3. Right Image:
+      - John at desk
+      - Timestamp: 11:40 PM
+      - Camera ID: CAM-O2
+      - Last known image
+
+B. Image Details:
+   - Size: 2.5" x 2.5" each
+   - Black and white
+   - Timestamp overlay (white text)
+   - Camera ID in corner
+
+SECTION 3: Floor Plan (Bottom Third)
+A. Building Layout:
+   - Complete floor plan
+   - Camera positions marked with icons
+   - John's office marked with red X
+   - Movement paths shown with arrows
+   - Legend included
+
+B. Additional Details:
+   - Scale indicator
+   - North arrow
+   - Room numbers
+   - Exit points marked
+
+==============================================
+3. PHONE RECORDS
+==============================================
+Size: 8.5" x 11" portrait
+Paper: White business paper
+Format: Official telephone company statement
+
+HEADER:
+A. Company Information (Top 1.5"):
+   - Telephone company logo (left)
+   - Company Name: American Cellular
+   - Account holder: "John Wallace" (centered)
+   - Statement period: Nov 1-4, 2023
+   - Account number: XXX-XX-4960
+
+CALL LOG TABLE (Middle Section):
+A. Table Headers:
+   - Date | Time | Number | Duration | Type
+   - Bold, 12pt font
+   - Light blue background
+
+B. Key Calls (highlighted in yellow):
+   11/04/23 | 10:45 PM | 555-0142 | 2 mins | Outgoing (to Lisa)
+   11/04/23 | 11:15 PM | 555-0189 | 5 mins | Incoming (from Lisa)
+   11/04/23 | 11:30 PM | 555-0167 | 0 mins | Outgoing (to Emily)
+   11/04/23 | 11:35 PM | 555-0198 | 3 mins | Outgoing (to Mary)
+
+FOOTER:
+A. DST Notice:
+   - Red box: "NOTICE: Times adjusted automatically for DST"
+   - Page numbers: "Page 1 of 1"
+   - Account details (partially redacted)
+
+==============================================
+4. FINANCIAL INVESTIGATION FILE
+==============================================
+Size: 8.5" x 11" portrait
+Format: Multi-page financial report
+Paper: High-quality white business paper
+
+COVER PAGE:
+A. Header:
+   - "FINANCIAL AUDIT REPORT" (large, centered)
+   - Case number: FIN-2023-1104
+   - Date: November 4, 2023
+   - Red "CONFIDENTIAL" stamp diagonal across page
+
+BANK STATEMENT SECTION:
+A. Transaction Table:
+   - Date | Time | Description | Amount | Balance
+   - Suspicious transactions highlighted:
+     1. Nov 1, 10:30 AM: $50,000 transfer
+     2. Nov 2, 2:15 PM: $75,000 withdrawal
+     3. Nov 4, 10:45 AM: $100,000 attempted transfer
+
+B. John's Notes:
+   - Red circles around suspicious amounts
+   - Handwritten questions in margins
+   - Arrows connecting related transactions
+   - "Check with L.C." written multiple times
+
+TRANSACTION HISTORY:
+A. Spreadsheet Format:
+   - Monthly summaries
+   - Pattern analysis
+   - Highlighted discrepancies
+   - Bank officer's annotations
+   - Official stamps and signatures
+
+==============================================
+5. GAS STATION RECEIPT
+==============================================
+Size: 3" x 8" thermal paper
+Format: Standard gas station receipt
+Condition: Slightly crumpled, thermal paper fading
+
+HEADER:
+A. Store Information:
+   - Shell Logo (top center)
+   - "Shell #1123"
+   - "1123 Park Avenue"
+   - "Atlanta, GA 30265"
+   - "1 (888) 467-4355"
+
+TRANSACTION DETAILS:
+A. Purchase Information:
+   - Date: 11/04/2023
+   - Time: 11:15 PM
+   - Product: Regular Unleaded
+   - Quantity: 12.4 gallons
+   - Price/gal: $3.49
+   - Total: $43.27
+
+B. Payment Details:
+   - Card type: VISA
+   - Last 4 digits: XXXX-4582
+   - Auth code: 789321
+
+FOOTER:
+A. Additional Information:
+   - "SYSTEM TIME NOT ADJUSTED FOR DST"
+   - Receipt #: 45892
+   - Thank you message
+   - Open 7 Days a Week : 7:00 AM - 9:00 PM
+
+PHYSICAL CHARACTERISTICS:
+- Thermal paper texture
+- Slight fading effect
+- Minor coffee stain
+- Crumpled corner
+
+==============================================
+6. ANONYMOUS TIP LETTER
+==============================================
+Size: 5" x 7" notepad paper
+Format: Handwritten note
+Paper: Yellow legal pad paper
+
+PHYSICAL CHARACTERISTICS:
+- Slightly wrinkled
+- Coffee stain in bottom right
+- Torn from legal pad (rough top edge)
+- Blue ink (medium point pen)
+
+CONTENT LAYOUT:
+A. Header:
+   - Date: "Nov 3, 2023" (top right)
+   - No greeting or salutation
+
+B. Main Text:
+   - Anonymous handwriting style
+   - 3 paragraphs
+   - Mentions seeing Alex near office
+   - References overheard argument about money
+   - Underlined key phrases
+
+C. Official Marks:
+   - Security desk stamp: "RECEIVED NOV 4 - 9:15 AM"
+   - Bottom left corner
+   - Partially smudged red ink
+
+==============================================
+7. EMILY'S TEXT MESSAGE THREAD
+==============================================
+Size: 8.5" x 11" portrait
+Format: Phone screenshot printout
+Style: iOS message interface
+
+HEADER:
+A. Phone Interface Elements:
+   - Status bar (battery, signal, time)
+   - Contact name: "Sarah B (Best Friend)"
+   - Back button and menu icons
+
+MESSAGE CONTENT:
+A. Key Messages (chronological):
+   Oct 15, 3:45 PM - Emily: "I think he's cheating. Been working late with that new consultant"
+   Oct 15, 3:47 PM - Sarah: "Are you sure? Maybe you're overthinking"
+   Nov 2, 11:23 PM - Emily: "If I find proof he's cheating, I swear I'll kill him"
+   Nov 2, 11:25 PM - Sarah: "Em, you're scaring me. Don't do anything crazy"
+   Nov 4, 10:30 AM - Emily: "I mean it. He won't get away with this"
+
+VISUAL ELEMENTS:
+- Blue bubbles (Emily's messages)
+- Grey bubbles (Sarah's messages)
+- Read receipts visible
+- Message timestamps
+- Emoji reactions where appropriate
+- White background
+- Typing indicator in last message
+
+==============================================
+8. ALEX & MARY'S EMAIL THREAD
+==============================================
+Size: 8.5" x 11" portrait
+Format: Corporate email printout
+Style: Modern email client interface
+
+HEADER:
+A. Email Client Elements:
+   - Company logo
+   - Subject: "Re: Q4 Strategy Meeting"
+   - From/To/CC fields
+   - Thread collapse buttons
+
+EMAIL CHAIN (chronological):
+A. Key Messages:
+   Nov 1, 2:15 PM - Alex: "John's decisions are going to tank this company"
+   Nov 2, 9:30 AM - Mary: "We need to do something before he ruins everything"
+   Nov 3, 4:45 PM - Alex: "If only he would just go away..."
+   Nov 4, 10:15 AM - Mary: "Seriously. The board needs to see these numbers"
+   Nov 4, 11:20 PM - Alex: "Working late tonight. Going to compile everything"
+
+VISUAL ELEMENTS:
+A. Professional Details:
+   - Corporate email signatures
+   - Attachment icons (spreadsheets, reports)
+   - Email threading indentation
+   - Reply/Forward markers
+   - Confidentiality notice footer
+   - Company branding elements 

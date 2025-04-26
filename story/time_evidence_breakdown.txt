@@ -1,0 +1,112 @@
+TIME EVIDENCE BREAKDOWN - SPRING FORWARD DST
+
+ACTUAL SEQUENCE OF EVENTS
+------------------------
+SUNDAY, MARCH 12, 2023:
+10:45 PM - John calls Lisa to arrange meeting
+11:00 PM - Lisa arrives at office
+2:59 AM - Murder occurs (just before DST change)
+3:00 AM - DST CHANGE (Spring Forward: 2:00 AM → 3:00 AM)
+3:30 AM - Neighbor hears gunshot and calls police
+4:00 AM - Lisa leaves building (appears as 3:00 AM on non-adjusted systems)
+
+HOW THE TIMES APPEAR IN EVIDENCE
+-------------------------------
+1. BEFORE DST CHANGE (All systems show correct time):
+   - 10:45 PM: Phone record of John calling Lisa
+   - 11:00 PM: Security log of Lisa entering building
+   - 2:59 AM: Crime scene photo (wall clock)
+
+2. AFTER DST CHANGE:
+   A. Non-Adjusting Systems (show actual time):
+      - Wall clock in crime scene: 2:59 AM
+      - Gas station receipt: 3:15 AM
+
+   B. Auto-Adjusting Systems (add one hour to times after 3 AM):
+      - Security System:
+        * Entry: 11:00 PM (correct - before DST)
+        * Exit: Shows as "3:00 AM" (actually 4:00 AM)
+      
+      - Phone Records:
+        * John's call: 10:45 PM (correct - before DST)
+        * Lisa's alibi call: Shows as "3:30 AM" (actually 4:30 AM)
+
+LISA'S ALIBI ATTEMPT
+-------------------
+What Lisa Claims:
+- Says she went home right after the meeting
+- Claims to have made a call from home at 3:30 AM
+- Says she was never there at time of murder (2:59 AM)
+
+What Really Happened:
+1. Stayed at office until 4:00 AM (cleaning up evidence)
+2. When DST occurred at 3:00 AM:
+   - Her 4:00 AM building exit appears as 3:00 AM
+   - Her 4:30 AM alibi call appears as 3:30 AM
+   - She's trying to use these adjusted times to claim she was home
+
+THE CONTRADICTION THAT PROVES HER GUILT
+-------------------------------------
+1. Physical Evidence (Non-Adjusting):
+   - Crime scene photo shows murder at 2:59 AM
+   - Gas station receipt shows her out at 3:15 AM
+
+2. Digital Evidence (Auto-Adjusting):
+   - Security system shows her leaving at "3:00 AM"
+   - Phone records show her call at "3:30 AM"
+
+3. Why This Proves Her Guilt:
+   - The murder definitely happened at 2:59 AM
+   - She was seen at gas station at 3:15 AM
+   - She couldn't have been home at 3:30 AM if she was still cleaning up evidence
+   - The adjusted times make her alibi fall apart when compared to physical evidence
+
+VISUAL TIMELINE OF ACTUAL EVENTS
+------------------------------
+[MARCH 12]                    [MARCH 13]                [DST CHANGE]
+|---------------------------|---------------------------|
+10:45 PM  11:00 PM  2:59 AM  3:00 AM → 3:00 AM        4:00 AM
+John      Lisa      Murder    DST Change               Lisa leaves
+calls     arrives                                      & makes alibi call
+
+HOW IT APPEARS IN RECORDS
+------------------------
+[MARCH 12]                    [MARCH 13]
+|---------------------------|---------------------------|
+10:45 PM  11:00 PM  2:59 AM  3:00 AM
+John      Lisa      Murder    Lisa's exit and call
+calls     arrives             (appears earlier due to DST)
+
+The key is that any times recorded after 3:00 AM (when DST occurred) would appear to be one hour earlier in digital systems. This means Lisa's post-murder activities, which happened around 4:00 AM, would show up as 3:00 AM in the digital records.
+
+MAKING IT CLEAR TO PLAYERS
+-------------------------
+1. Visual Distinctions:
+   - Auto-Adjusted Systems: Blue text, "DST Adjusted" watermark
+   - Non-Adjusted Systems: Red text, "Original Time" watermark
+   - Physical Evidence: Green text, "Actual Time" watermark
+
+2. Key Evidence to Compare:
+   - Security footage showing Lisa leaving at "3:00 AM"
+   - Neighbor's statement about hearing gunshot at 3:30 AM
+   - Gas station receipt showing Lisa at 3:15 AM
+   - Crime scene photo showing 2:59 AM
+
+3. How to Spot the Contradiction:
+   - If Lisa left at 3:00 AM (per security footage)
+   - And murder was at 2:59 AM
+   - Then she couldn't have been at gas station at 3:15 AM
+   - The times don't add up because of DST adjustment
+
+4. Visual Timeline for Players:
+   [Create a visual timeline showing both actual and recorded times]
+   - Actual time line (top)
+   - Recorded time line (bottom)
+   - Arrows connecting corresponding events
+   - DST change clearly marked
+
+Would you like me to:
+1. Create more detailed visual examples?
+2. Add specific color codes and font recommendations?
+3. Develop additional visual aids for players?
+4. Further refine the timeline diagram? 

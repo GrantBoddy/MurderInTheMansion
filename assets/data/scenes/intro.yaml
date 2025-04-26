@@ -1,0 +1,23 @@
+background: "assets/images/backgrounds/crime_scene.png"
+characters:
+  - id: "detective_graves"
+    position: [50, 250]
+    dialogue:
+      - "Thank God you're here, Detective! We've got a murder case on our hands."
+      - "The victim, John Wallace, was found dead in his study around 4:00 AM."
+      - "The neighbor, Tom Wilson, heard a gunshot at exactly 3:34 AM."
+      - "He was also the one that called it in."
+      - "When we arrived, Mr. Wilson was actually outside with a gun, which we thought was odd."
+      - "We've gathered all the evidence for you and went ahead and set up an Evidence Board for you."
+      - "Go ahead and review everything, then start questioning the suspects."
+      - "Remember, if you need help, there is a help button in the top left corner of the Evidence Board."
+
+evidence:
+  - id: "crime_scene_photo"
+    name: "Crime Scene Photo"
+    description: "A photograph of the study where the victim was found."
+    image: "assets/images/evidence/crime_scene_photo.png"
+    relevant: true
+
+next_scene: "evidence_room"
+delay_character_entry: 2000  # 2 second delay before character enters 

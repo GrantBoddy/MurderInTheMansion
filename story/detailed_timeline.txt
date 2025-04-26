@@ -1,0 +1,216 @@
+DETAILED TIMELINE - MARCH 12-13, 2023
+
+==============================================
+SATURDAY, MARCH 12, 2023
+==============================================
+
+8:00 PM
+LOCATIONS:
+- John: Office (working late)
+- Emily: Charity Gala (just arriving)
+- Alex: Secretly in the mansion's guest wing
+- Lisa: Home (preparing)
+- Mary: Secretly in the mansion with Alex
+- Tom: Home (neighbor)
+
+9:00 PM
+LOCATIONS:
+- John: Office (reviewing financial documents)
+- Emily: Charity Gala (main dinner)
+- Alex: In mansion's guest wing with Mary
+- Lisa: Home (waiting)
+- Mary: In mansion's guest wing with Alex
+- Tom: Home (watching TV)
+
+10:00 PM
+LOCATIONS:
+- John: Office (discovered major financial discrepancy)
+- Emily: Charity Gala (auction event)
+- Alex: In mansion, hears John in office
+- Lisa: Home (receiving texts from John about meeting)
+- Mary: With Alex, both staying quiet
+- Tom: Taking evening walk
+
+10:30 PM
+ACTIVITIES:
+- John: Preparing evidence of embezzlement
+- Emily: Charity Gala (winning auction item)
+- Alex: With Mary in guest wing
+- Lisa: Getting ready to leave for office
+- Mary: With Alex, both hear John on phone
+- Tom: Back home, watching late news
+
+10:45 PM
+KEY EVENT: John calls Lisa to arrange meeting
+ACTIVITIES:
+- John: Making the call from office
+- Emily: Charity Gala (dancing)
+- Alex: Taking photos with friends at bar
+- Lisa: Receiving call, leaving house
+- Mary: Getting ready for bed
+- Tom: Still watching TV
+
+11:00 PM
+KEY EVENT: Lisa arrives at office
+LOCATIONS:
+- John: Office (waiting for Lisa)
+- Emily: Charity Gala (socializing)
+- Alex: Paying restaurant bill
+- Lisa: Arriving at office
+- Mary: In bed
+- Tom: Notices office lights still on
+
+11:15 PM
+KEY EVENT: Lisa stops at gas station
+ACTIVITIES:
+- John: Office (organizing financial evidence)
+- Emily: Charity Gala (final auction items)
+- Alex: Leaving restaurant
+- Lisa: At gas station
+- Mary: Sleeping
+- Tom: Going to bed
+
+11:30 PM
+KEY EVENT: Emily returns home from charity gala
+LOCATIONS:
+- Emily: Home (just arrived from gala)
+- All others sleeping
+
+==============================================
+SUNDAY, MARCH 13, 2023
+==============================================
+
+12:00 AM
+LOCATIONS:
+- John: Deceased in office
+- Emily: Leaving charity gala
+- Alex: Home in bed
+- Lisa: Office (cleaning evidence)
+- Mary: Sleeping
+- Tom: Sleeping
+
+1:00 AM
+ACTIVITIES:
+- John: Deceased in office
+- Emily: Home in bed
+- Alex: Sleeping
+- Lisa: Final stages of cleanup
+- Mary: Sleeping
+- Tom: Sleeping
+
+1:30 AM
+KEY EVENT: Lisa leaves building
+ACTIVITIES:
+- Lisa: Exiting building (appears as 11:30 PM in security logs)
+- All others sleeping
+
+2:00 AM → 1:00 AM (DST CHANGE OCCURS)
+- All clocks fall back one hour
+- Automated systems adjust
+- Manual clocks must be changed by hand
+
+1:15 AM (new time)
+KEY EVENT: Lisa makes alibi call
+ACTIVITIES:
+- Lisa: Calling from home (appears as 11:15 PM in phone records)
+- All others sleeping
+
+2:59 AM
+KEY EVENT: Murder occurs (just before DST change)
+ACTIVITIES:
+- John: Murdered in office
+- Emily: Charity Gala (event winding down)
+- Alex: Home, checking emails
+- Lisa: In John's office (committing murder)
+- Mary: Sleeping
+- Tom: In bed, hears distant noise
+
+3:00 AM
+KEY EVENT: DST CHANGE (Spring Forward: 2:00 AM → 3:00 AM)
+ACTIVITIES:
+- Automated systems adjust
+- Manual clocks must be changed by hand
+
+3:15 AM
+KEY EVENT: Lisa stops at gas station (receipt timestamp)
+ACTIVITIES:
+- John: Office (organizing financial evidence)
+- Emily: Charity Gala (final auction items)
+- Alex: Leaving restaurant
+- Lisa: At gas station
+- Mary: Sleeping
+- Tom: Going to bed
+
+3:30 AM
+KEY EVENT: Neighbor hears gunshot and calls police
+ACTIVITIES:
+- Lisa: Making alibi call from home
+- All others sleeping
+
+4:00 AM
+KEY EVENT: Lisa leaves building (appears as 3:00 AM on non-adjusted systems)
+LOCATIONS:
+- John: Office (waiting for Lisa)
+- Emily: Charity Gala (socializing)
+- Alex: Paying restaurant bill
+- Lisa: Exiting building
+- Mary: In bed
+- Tom: Notices office lights still on
+
+4:30 AM
+KEY EVENT: Lisa makes alibi call (appears as 3:30 AM on adjusted systems)
+ACTIVITIES:
+- Lisa: Calling from home (appears as 11:15 PM in phone records)
+- All others sleeping
+
+EVIDENCE TIMESTAMPS AS THEY APPEAR:
+---------------------------------
+1. Non-Adjusting Systems (Show Actual Time):
+   - Crime Scene Photo: 2:59 AM (wall clock)
+   - Gas Station Receipt: 3:15 AM
+   - Building Security Log (manual): 4:00 AM exit
+
+2. Auto-Adjusting Systems (Show Adjusted Time):
+   - Digital Security System: Shows exit at 3:00 AM
+   - Phone Records: Shows call at 3:30 AM
+   - Computer Activity Logs: Show activity until 3:00 AM
+
+KEY POINTS:
+----------
+1. The murder occurred at 2:59 AM, just before DST change
+2. Lisa stayed to clean up evidence until 4:00 AM
+3. When DST occurred at 3:00 AM:
+   - Her 4:00 AM exit appears as 3:00 AM
+   - Her 4:30 AM call appears as 3:30 AM
+4. The neighbor's call at 3:30 AM is the correct new time
+5. The gas station receipt at 3:15 AM is the actual time
+6. The security footage showing 3:00 AM exit is actually 4:00 AM
+
+This timeline shows how Lisa used the DST change to create a false alibi. The key contradiction is that she claims to have left at 3:00 AM and been home at 3:30 AM, but the gas station receipt shows her out at 3:15 AM, and the murder occurred at 2:59 AM.
+
+CHARACTER ALIBIS
+---------------
+1. Emily Wallace:
+   - Charity gala from 8:00 PM to 11:30 PM
+   - Multiple witnesses confirm attendance
+   - Receipt and ticket stub evidence
+
+2. Alex Wallace:
+   - Restaurant meeting from 9:00 PM to 11:15 PM
+   - Mary Johnson confirms alibi
+   - Restaurant receipt evidence
+
+3. Mary Johnson:
+   - Restaurant meeting with Alex
+   - Security footage at restaurant
+   - Credit card transaction evidence
+
+4. Lisa Carter:
+   - Claims to have left office at 3:00 AM
+   - Claims to have been home at 3:30 AM
+   - Claims to have never been there at time of murder (2:59 AM)
+
+This creates the perfect confusion:
+- Her alibi looks solid in digital records
+- But physical evidence (gas station receipt, crime scene) shows true timeline
+- The contradiction between adjusted and non-adjusted times reveals her guilt 

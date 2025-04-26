@@ -1,0 +1,21 @@
+id: "suspect_mary"
+name: "Mary Johnson"
+image: "assets/images/characters/suspect_mary.png"
+position: [400, 200]
+dialogue:
+  intro:
+    - "I can't believe John is dead... We were supposed to meet for dinner that night."
+    - "I arrived at his house around 8 PM, but he wasn't answering the door."
+    - "I thought he might have forgotten about our plans, so I left after waiting for 30 minutes."
+  interrogation:
+    - "I was at home, watching TV. My neighbor can confirm that."
+    - "John and I were just friends. We met at the local book club."
+    - "The last time I saw him was two days before... at the book club meeting."
+    - "He seemed normal, maybe a bit distracted, but nothing unusual."
+  choices:
+    - text: "Ask about their relationship"
+      next: "relationship"
+    - text: "Ask about the book club"
+      next: "book_club"
+    - text: "Ask about the night of the murder"
+      next: "murder_night" 

@@ -1,0 +1,6 @@
+id: "old_receipt"
+name: "Old Receipt"
+description: "A receipt from a local coffee shop dated two weeks before the murder. Shows a purchase for two coffees and two pastries."
+image: "assets/images/evidence/old_receipt.png"
+relevant: false
+notes: "This receipt appears to be unrelated to the case. It's from before the murder and doesn't provide any useful information." 

@@ -1,0 +1,115 @@
+FINANCIAL INVESTIGATION FILE - DETAILED CONTENTS
+
+==============================================
+COVER PAGE
+==============================================
+Document Title: "FINANCIAL AUDIT REPORT"
+Case Number: FIN-2023-0312
+Date: March 12, 2023
+Classification: CONFIDENTIAL (diagonal red stamp)
+Prepared By: Internal Audit Department
+Period Covered: December 1 - March 12, 2023
+Location: 1124 Park Avenue, Atlanta, GA (Home Office)
+
+==============================================
+SECTION 1: TRANSACTION SUMMARY
+==============================================
+Account: Corporate Operations Account #867-5309
+Account Holder: Wallace Enterprises
+Bank: First National Business Bank
+Location: 1124 Park Avenue, Atlanta, GA
+
+DECEMBER 2022 TRANSACTIONS
+-----------------
+Dec 1  | 09:15 AM | Deposit        | $125,000.00 | Client Payment - Turner Corp | Normal
+Dec 2  | 10:30 AM | Transfer Out   | $23,450.00  | Office Supplies Vendor | Normal
+Dec 3  | 02:15 PM | Withdrawal     | $15,000.00  | Payroll Processing | Normal
+Dec 7  | 11:20 AM | Transfer Out   | $35,000.00  | To Account #7742 | SUSPICIOUS
+Dec 12 | 03:45 PM | Deposit        | $89,000.00  | Client Payment - Peterson Group | Normal
+Dec 15 | 09:30 AM | Transfer Out   | $42,000.00  | To Offshore Account #CH-7789 | SUSPICIOUS
+Dec 18 | 02:00 PM | Withdrawal     | $12,500.00  | Office Maintenance | Normal
+Dec 22 | 10:15 AM | Deposit        | $95,000.00  | Client Payment - Maxwell Corp | Normal
+Dec 25 | 01:30 PM | Transfer Out   | $28,000.00  | To Account #7742 | SUSPICIOUS
+Dec 30 | 04:45 PM | Withdrawal     | $18,900.00  | Monthly Utilities | Normal
+
+JANUARY 2023 TRANSACTIONS
+-----------------
+Jan 1  | 09:00 AM | Deposit        | $150,000.00 | Client Payment - Anderson LLC | Normal
+Jan 3  | 11:45 AM | Transfer Out   | $45,000.00  | To Offshore Account #CH-7789 | SUSPICIOUS
+Jan 5  | 02:30 PM | Withdrawal     | $22,000.00  | Office Equipment | Normal
+Jan 8  | 10:20 AM | Deposit        | $78,000.00  | Client Payment - Thompson Industries | Normal
+Jan 12 | 03:15 PM | Transfer Out   | $38,000.00  | To Account #7742 | SUSPICIOUS
+Jan 15 | 09:45 AM | Withdrawal     | $25,000.00  | Marketing Campaign | Normal
+Jan 20 | 01:00 PM | Deposit        | $112,000.00 | Client Payment - Roberts Group | Normal
+Jan 25 | 11:30 AM | Transfer Out   | $55,000.00  | To Offshore Account #CH-7789 | SUSPICIOUS
+Jan 28 | 04:00 PM | Withdrawal     | $19,800.00  | Monthly Utilities | Normal
+Jan 30 | 02:45 PM | Transfer Out   | $32,000.00  | To Account #7742 | SUSPICIOUS
+
+FEBRUARY 2023 TRANSACTIONS
+-----------------
+Feb 2  | 09:30 AM | Deposit        | $135,000.00 | Client Payment - Davidson Corp | Normal
+Feb 5  | 10:45 AM | Transfer Out   | $48,000.00  | To Offshore Account #CH-7789 | SUSPICIOUS
+Feb 8  | 02:00 PM | Withdrawal     | $21,500.00  | Office Supplies | Normal
+Feb 10 | 11:15 AM | Deposit        | $92,000.00  | Client Payment - Phillips Inc | Normal
+Feb 15 | 03:30 PM | Transfer Out   | $65,000.00  | To Account #7742 | SUSPICIOUS
+Feb 18 | 09:00 AM | Withdrawal     | $28,500.00  | Employee Benefits | Normal
+Feb 22 | 01:45 PM | Deposit        | $118,000.00 | Client Payment - Harrison Group | Normal
+Feb 25 | 10:30 AM | Transfer Out   | $58,000.00  | To Offshore Account #CH-7789 | SUSPICIOUS
+Feb 28 | 04:15 PM | Withdrawal     | $20,100.00  | Monthly Utilities | Normal
+Feb 28 | 02:30 PM | Transfer Out   | $45,000.00  | To Account #7742 | SUSPICIOUS
+
+MARCH 2023 TRANSACTIONS
+-----------------
+Mar 1  | 10:30 AM | Transfer Out   | $50,000.00  | To Offshore Account #CH-7789 | SUSPICIOUS
+Mar 2  | 02:15 PM | Withdrawal     | $75,000.00  | No Description Provided | SUSPICIOUS
+Mar 12 | 10:45 AM | Transfer Out   | $100,000.00 | ATTEMPTED - DECLINED | SUSPICIOUS
+
+==============================================
+JOHN'S HANDWRITTEN ANNOTATIONS
+==============================================
+
+Pattern Notes:
+- Red circle around Account #7742 with note: "Shell company? Check with L.C."
+- Arrow connecting all offshore transfers with note: "Monthly pattern increasing"
+- Question mark by each "To Account #7742" with note: "No vendor documentation"
+- Asterisk by Mar 2 withdrawal with note: "No authorization form"
+- Double underline under Mar 12 attempted transfer
+- Note in margin: "Total suspicious transfers: $521,000"
+- Sticky note attached: "Meeting L.C. tonight - must discuss"
+
+Key Observations (in John's handwriting):
+1. "Offshore transfers increasing each month"
+2. "Account #7742 - no documentation on file"
+3. "L.C. authorized all suspicious transfers"
+4. "Pattern started December 7th"
+5. "Need board oversight on international transfers"
+
+==============================================
+BANK OFFICER NOTES
+==============================================
+- Red stamp: "IRREGULAR ACTIVITY DETECTED"
+- Note: "Multiple transfers to unverified accounts"
+- Warning: "International transfers exceed policy limits"
+- Highlight: "Attempted transfer on Mar 12 flagged for size"
+- Initial review date: "Mar 10, 2023"
+- Final review date: "Mar 12, 2023"
+
+==============================================
+ATTACHED DOCUMENTATION
+==============================================
+1. Transfer Authorization Forms
+   - Multiple forms signed by "L.C."
+   - Several missing required second signatures
+   - Some backdated authorizations
+
+2. International Transfer Records
+   - Swiss bank correspondence
+   - Account verification requests
+   - Compliance warnings
+
+3. Internal Audit Notes
+   - Timeline of suspicious activities
+   - Pattern analysis worksheet
+   - Risk assessment summary
+
+Note: All suspicious transactions are to be highlighted in yellow in the final document, with red circles and connecting arrows as per John's annotations. 

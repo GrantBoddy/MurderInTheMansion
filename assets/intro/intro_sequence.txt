@@ -1,0 +1,32 @@
+# Intro sequence text file
+# Format: [delay_seconds]|[text]|[font_size]|[color_rgb]
+# Delay is the time to wait before showing this text after the previous one
+# Font size is optional (defaults to medium if not specified)
+# Color is RGB values separated by commas (defaults to 255,255,255 if not specified)
+
+# Location and time information
+0|Wallace Estate|large|255,255,255
+2|March 12, 2023|medium|255,255,255
+1.5|3:50 PM|medium|255,255,255
+
+# Detective dialogue
+3|Man, am I glad to see you.......|medium|255,255,255
+3|I already knew I would lose sleep tonight, but I didn't expect this.|medium|255,255,255
+3|Unfortunately, it seems we've got a murder case on our hands.|medium|255,255,255
+2|The victim, John Wallace, was found dead in his study around 4:00 AM.|medium|255,255,255
+2|The neighbor, Tom Wilson, heard a gunshot at exactly 3:34 AM.|medium|255,255,255
+2|Mr. Wilson was also the one that initially called it in.|medium|255,255,255
+2.5|When we arrived, Mr. Wilson was actually outside with a gun, which we thought was a little odd.|medium|255,255,255
+2|We've gathered all the evidence for you and went ahead and set up an Evidence Board for you.|medium|255,255,255
+2|Go ahead and review everything, then start questioning the suspects.|medium|255,255,255
+2|The interrogations won't be available until you've examined 3 pieces of evidence.|medium|255,255,255
+2|Remember, if you need help, there is a help button in the top left corner of the Evidence Board.|medium|255,255,255
+2|If you ever feel stuck, click the lightbulb button in the top right corner of the Evidence Board.|medium|255,255,255
+2|This will take you to the "Tips" screen where you can uncover 2 tips.|medium|255,255,255
+2|But only use it if you really need it!!|medium|255,255,255
+2|And remember..........|medium|255,255,255
+6|PAY ATTENTION|large|255,255,255
+6|HAVE FUN|large|255,255,255
+6|AND GOOD LUCK.......|large|255,255,255
+
+

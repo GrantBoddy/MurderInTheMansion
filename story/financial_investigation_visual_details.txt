@@ -1,0 +1,113 @@
+FINANCIAL INVESTIGATION FILE - VISUAL DETAILS
+===========================================
+
+COVER PAGE DESIGN
+----------------
+Size: 8.5" x 11" standard paper
+Paper Type: Heavy cardstock (32lb)
+Color: Light gray with subtle watermark pattern
+Condition: Slightly worn edges, shows signs of frequent handling
+
+HEADER ELEMENTS:
+1. Top Section (1.5" from top):
+   - "WALLACE ENTERPRISES" (Centered, 1" from top)
+     * Font: Times New Roman Bold
+     * Size: 24pt
+     * Color: Dark blue (#000080)
+     * Letter spacing: 1.5pt
+     * Small underline (0.5pt, dark blue)
+   - "HOME OFFICE - 1124 PARK AVENUE" (Centered, 1.25" from top)
+     * Font: Times New Roman
+     * Size: 12pt
+     * Color: Dark blue (#000080)
+
+2. Middle Section (3" from top):
+   - "FINANCIAL AUDIT REPORT" (Centered)
+     * Font: Times New Roman Bold
+     * Size: 36pt
+     * Color: Black
+     * Letter spacing: 2pt
+     * Double underline (1pt, black)
+
+3. Bottom Section (6" from top):
+   - Case Number: "FIN-2023-0312" (Left aligned)
+     * Font: Courier New
+     * Size: 12pt
+     * Color: Dark red (#8B0000)
+   - Date: "March 12, 2023" (Right aligned)
+     * Font: Times New Roman
+     * Size: 12pt
+     * Color: Black
+
+4. Classification Stamp (7" from top):
+   - "CONFIDENTIAL" (Centered)
+     * Font: Impact
+     * Size: 48pt
+     * Color: Bright red (#FF0000)
+     * Diagonal placement (45-degree angle)
+     * Semi-transparent (60% opacity)
+     * Outline: 2pt black border
+
+5. Footer (9.5" from top):
+   - Prepared By: "Internal Audit Department" (Left aligned)
+     * Font: Times New Roman
+     * Size: 10pt
+     * Color: Dark gray (#404040)
+   - Period Covered: "December 1 - March 12, 2023" (Right aligned)
+     * Font: Times New Roman
+     * Size: 10pt
+     * Color: Dark gray (#404040)
+
+DOCUMENT HEADER (For Each Page)
+------------------------------
+Size: Full width of page (8.5")
+Height: 1.5"
+Background: Light gray (#F5F5F5)
+Border: 1pt solid dark blue (#000080) at bottom
+
+ELEMENTS (Left to Right):
+1. Company Logo (Left side):
+   - Wallace Enterprises logo
+   - Size: 1" height
+   - Position: 0.5" from left edge
+   - Color: Dark blue (#000080)
+
+2. Document Title (Center):
+   - "Financial Audit Report"
+   - Font: Times New Roman Bold
+   - Size: 14pt
+   - Color: Dark blue (#000080)
+   - Position: Centered horizontally
+
+3. Page Information (Right side):
+   - Case Number: "FIN-2023-0312"
+     * Font: Courier New
+     * Size: 10pt
+     * Color: Dark red (#8B0000)
+   - Page Number: "Page X of Y"
+     * Font: Times New Roman
+     * Size: 10pt
+     * Color: Dark gray (#404040)
+   - Position: 0.5" from right edge
+
+4. Security Features:
+   - Small watermark in background: "CONFIDENTIAL"
+     * Font: Impact
+     * Size: 72pt
+     * Color: Light gray (#E0E0E0)
+     * 10% opacity
+     * Diagonal placement
+   - Microprint border (visible under magnification)
+   - UV-reactive security thread (visible under black light)
+
+5. Additional Elements:
+   - Small company address at very bottom
+     * Font: Times New Roman
+     * Size: 8pt
+     * Color: Dark gray (#404040)
+   - Revision number and date
+     * Font: Courier New
+     * Size: 8pt
+     * Color: Dark gray (#404040)
+
+Note: All measurements are from the top edge of the page unless otherwise specified. Colors are specified in both name and hex code for precise matching. Font sizes are in points (pt). All elements should be aligned precisely as specified to maintain professional appearance. 

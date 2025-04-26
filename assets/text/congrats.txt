@@ -1,0 +1,81 @@
+#FONT:42
+#COLOR:255,255,255
+Congratulations, Detective!
+#PAUSE:1.0
+
+#FONT:36
+#COLOR:220,220,220
+You've successfully solved the case.
+#PAUSE:0.5
+
+#FONT:36
+#COLOR:220,220,220
+Thanks to you, the Wallace family has received justice.
+#PAUSE:0.5
+
+#FONT:36
+#COLOR:220,220,220
+So did you get lucky?
+#PAUSE:0.5
+
+#FONT:36
+#COLOR:220,220,220
+Or did you discover the truth...... 
+#PAUSE:0.5
+
+#FONT:36
+#COLOR:220,220,220
+...that the murder occured during.....
+#PAUSE:0.5
+
+#FONT:52
+#COLOR:220,220,220
+DAYLIGHT SAVINGS TIME?!?!
+#PAUSE:0.5
+
+#FONT:36
+#COLOR:220,220,220
+No matter how you solved it, we're happy that you did!
+#PAUSE:0.5
+
+#FONT:36
+#COLOR:220,220,220
+The Wallace Family and the community thank you for your 
+hard work and amazing detective skills. \
+#PAUSE:0.5
+
+#FONT:36
+#COLOR:220,220,220
+Whether you solved it from the beginning by noticing the 
+grandfather clock was showing the wrong time... \
+#PAUSE:0.5
+
+#FONT:36
+#COLOR:220,220,220
+or if you noticed the Daylight Savings Time clues on Emily's 
+charity ticket for the 23-Hour Ball... \
+#PAUSE:1.0
+
+#FONT:36
+#COLOR:220,220,220
+or if you Googled the Spring-Forward date in 2023.....
+#PAUSE:0.5
+
+#FONT:38
+#COLOR:255,255,255
+You solved it!
+#PAUSE:1.5
+
+#FONT:52
+#COLOR:255,255,255
+GREAT JOB DETECTIVE!!
+#PAUSE:1.5
+
+#FONT:52
+#COLOR:180,180,180
+Goodbye......
+#PAUSE:1.5
+
+#FONT:28
+#COLOR:180,180,180
+........... for now.

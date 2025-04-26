@@ -1,0 +1,114 @@
+#FONT:72
+#COLOR:255,255,255
+#ALIGN:center
+#SPACING:80
+Murder in the Mansion
+#PAUSE:2.0
+
+#FONT:48
+#COLOR:220,220,220
+#SPACING:60
+A Detective Adventure
+#PAUSE:1.0
+
+#FONT:48
+#COLOR:200,200,255
+#SPACING:20
+Created By:
+#PAUSE:1.0
+
+#FONT:54
+#COLOR:255,255,255
+#SPACING:200
+Grant Boddy
+#PAUSE:1.0
+
+#FONT:54
+#COLOR:255,255,255
+#SPACING:20
+Dedicated To: My Father
+#PAUSE:5.0
+
+#FONT:54
+#COLOR:255,255,255
+#SPACING:200
+The Smartest Man I Know
+#PAUSE:1.0
+
+#FONT:42
+#COLOR:180,180,180
+#SPACING:60
+A CSC 4330 - Programming Language Concepts Project
+#PAUSE:0.5
+
+#FONT:36
+#COLOR:200,200,200
+#SPACING:60
+Taught By: Dr. Tamhankar
+#PAUSE:0.5
+
+#FONT:42
+#COLOR:200,200,255
+#SPACING:40
+Special Thanks
+#PAUSE:0.5
+
+#FONT:32
+#COLOR:180,180,180
+#SPACING:40
+To All The Players Who Played This Game....
+#PAUSE:0.5
+
+#FONT:32
+#COLOR:180,180,180
+#SPACING:60
+Especially The Ones Who Solved It....
+#PAUSE:5.0
+
+#FONT:42
+#COLOR:200,200,255
+#SPACING:20
+Another Special Thanks
+#PAUSE:0.5
+
+#FONT:32
+#COLOR:180,180,180
+#SPACING:60
+To The Detective In All Of Us
+#PAUSE:5.0
+
+#FONT:42
+#COLOR:200,200,255
+#SPACING:20
+And A Huge Thanks
+#PAUSE:0.5
+
+#FONT:32
+#COLOR:180,180,180
+#SPACING:120
+To My Family For Helping Me With Ideas & Listening To Me Rant
+#PAUSE:5.0
+
+#FONT:36
+#COLOR:255,255,255
+#SPACING:120
+Made with Pygame
+#PAUSE:0.5
+
+#FONT:48
+#COLOR:255,255,255
+#SPACING:60
+Thank You For Playing!
+#PAUSE:1.0
+
+#FONT:32
+#COLOR:180,180,180
+#SPACING:500
+Goodbye......
+#PAUSE:0.5
+
+#FONT:32
+#COLOR:180,180,180
+#SPACING:800
+.......for now
+#PAUSE:12.0

@@ -1,0 +1,106 @@
+# Suspense text file
+# Format: 
+# #FONT:[size] - Set font size for following lines
+# [time_to_appear_seconds]|[x_position_percent]|[y_position_percent]|[text]|[color_rgb]
+# Time is in seconds from the start of the suspense screen
+# Positions are percentages of screen width/height (0-100)
+# Color is RGB values separated by commas
+
+#FONT:36
+3|75|25|Were you right????|255,255,255
+
+#FONT:32
+6|35|65|You pulled the trigger, but was it on the TRUE killer?|255,255,255
+
+#FONT:42
+10|63|40|Did justice win tonight..... or did evil escape?|255,0,0
+
+#FONT:30
+13|80|80|There's no turning back now...|255,255,255
+
+#FONT:32
+14|69|22|Is the killer still loose???|255,0,0
+
+#FONT:36
+15|13|72|Are you next?!?!|255,255,255
+
+#FONT:32
+16|30|15|Do you feel good about your decision??|255,255,255
+
+#FONT:36
+18|60|55|Or will the killer.......|255,0,0
+
+#FONT:72
+22|70|35|KILL|255,255,255
+
+#FONT:32
+22|25|75|KILL|255,255,255
+
+#FONT:32
+22|59|87|KILL|255,255,255
+
+#FONT:42
+22|78|6|KILL|255,255,255
+
+#FONT:32
+22|86|89|KILL|255,255,255
+
+#FONT:72
+22|16|23|KILL|255,255,255
+
+#FONT:32
+22|13|88|KILL|255,255,255
+
+#FONT:36
+22|4|96|KILL|255,255,255
+
+#FONT:30
+22|31|65|KILL|255,255,255
+
+#FONT:36
+22|91|33|KILL|255,255,255
+
+#FONT:32
+22|87|10|KILL|255,255,255
+
+#FONT:34
+22|93|77|KILL|255,255,255
+
+#FONT:32
+22|43|92|KILL|255,255,255
+
+#FONT:30
+22|33|20|KILL|255,255,255
+
+#FONT:32
+22|88|25|KILL|255,255,255
+
+#FONT:36
+22|80|75|KILL|255,255,255
+
+#FONT:32
+22|50|25|KILL|255,255,255
+
+#FONT:30
+22|58|63|KILL|255,255,255
+
+#FONT:42
+22|21|49|KILL|255,255,255
+
+#FONT:36
+22|37|51|KILL|255,255,255
+
+#FONT:42
+22|41|5|KILL|255,255,255
+
+#FONT:30
+22|63|11|KILL|255,255,255
+
+#FONT:30
+22|28|39|KILL|255,255,255
+
+#FONT:30
+22|41|47|KILL|255,255,255
+
+#FONT:80
+26|30|75|...... AGAIN|255,0,0
