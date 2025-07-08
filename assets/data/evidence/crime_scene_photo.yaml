@@ -1,9 +1,0 @@
-id: "crime_scene_photo"
-name: "Crime Scene Photo"
-description: "A photograph of the study where the victim was found. The room appears to be in disarray, with papers scattered across the floor and a broken lamp on the desk. A single gunshot wound is visible on the victim's chest."
-image: "assets/images/evidence/crime_scene_photo.png"
-relevant: true
-clues:
-  - "The victim was shot at close range"
-  - "The room shows signs of a struggle"
-  - "The murder weapon is missing" 

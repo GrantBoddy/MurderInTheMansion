@@ -1,9 +1,0 @@
-id: "phone_records"
-name: "Phone Records"
-description: "Phone records from the victim's mobile phone. Shows several calls to and from Mary Johnson on the day of the murder, including a missed call at 7:45 PM."
-image: "assets/images/evidence/phone_records.png"
-relevant: true
-clues:
-  - "Multiple calls between victim and Mary Johnson"
-  - "Last call was missed at 7:45 PM"
-  - "No calls after 7:45 PM" 
