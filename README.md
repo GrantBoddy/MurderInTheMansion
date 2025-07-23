@@ -39,9 +39,9 @@ Would love to hear any thoughts or feedback!!!!
 ### 3. Run the Game
 - In your terminal or command prompt, navigate to the game folder and run:
   ```
-  python game.py
+  python main.py
   ```
-  (If your main file is named differently, adjust accordingly.)
+
 
 ## Game Controls
 - **Mouse**: Click to interact with the game
@@ -61,3 +61,14 @@ Would love to hear any thoughts or feedback!!!!
 Created By Grant Boddy
 Dedicated To My Father
 Created Using Pygame
+
+## Reminder
+- Open powershell or terminal
+- Navigate to the game folder with a command like this:
+cd C:\Users\<YourUsername>\Downloads\MurderInTheMansion
+- Download the requirements with a command like this:
+pip install -r requirements.txt
+- Run the game with a command like this:
+python main.py
+
+Hope You Enjoy!
