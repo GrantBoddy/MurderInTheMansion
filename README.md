@@ -2,37 +2,50 @@
 
 A thrilling murder mystery detective game where you'll gather evidence, interrogate suspects, and solve the case!
 
+Made By: Grant Wallace Boddy
+Dedicated To My Father
+Created Using Pygame
+
+Contact:
+g.w.boddy@gmail.com
+770-757-4960
+
+Website: 
+https://grantboddy.weebly.com/
+
+I hope you enjoy the game!!!
+Would love to hear any thoughts or feedback!!!!
+
 ![Game Icon](assets/images/icons/glass.ico)
 
 ## How to Play
 
-### Easy Method (Windows)
-1. Double-click the `Murder Mystery.bat` file
-2. The game will automatically check for Python and required packages
-3. If anything is missing, it will guide you through installation
-4. Enjoy the game!
+### 1. Download the Game
+- **From GitHub:**
+  Clone the repository using:
+  ```
+  git clone https://github.com/GrantBoddy/MurderInTheMansion.git
+  ```
+- **From a Zip File:**
+  Download and extract the zip file so you have a folder containing all the game files.
 
-### Manual Method
-1. Make sure Python 3.9+ is installed
-2. Install required packages: `pip install pygame pyyaml`
-3. Run the game: `python main.py`
+### 2. Install Python and Requirements
+- Make sure you have **Python 3.9 or newer** installed.
+- Install required packages using:
+  ```
+  pip install -r requirements.txt
+  ```
+
+### 3. Run the Game
+- In your terminal or command prompt, navigate to the game folder and run:
+  ```
+  python game.py
+  ```
+  (If your main file is named differently, adjust accordingly.)
 
 ## Game Controls
 - **Mouse**: Click to interact with the game
 - **Keyboard**: Follow on-screen prompts for specific interactions
-
-## Sharing with Friends and Family
-
-### Option 1: Share the Folder
-1. Zip this entire folder
-2. Send the zip file to friends/family
-3. They extract it and run `Murder Mystery.bat`
-4. The batch file will guide them through any setup needed
-
-### Option 2: Share via Cloud
-1. Upload the zipped folder to Google Drive, Dropbox, etc.
-2. Share the link with friends/family
-3. They download, extract, and run `Murder Mystery.bat`
 
 ## Requirements
 - Windows 10 or 11
@@ -45,4 +58,6 @@ A thrilling murder mystery detective game where you'll gather evidence, interrog
 - Run the game from the batch file rather than directly
 
 ## Credits
-Created with Pygame
+Created By Grant Boddy
+Dedicated To My Father
+Created Using Pygame
